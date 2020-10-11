@@ -64,7 +64,11 @@
         float: left;
     }
     .main-nav{
-        float:right
+       float: right;
+     }
+    .main-nav li{
+        display: inline-block;
+        margin-left: 40px;
     }
     .row {
         max-width: 1140px;
